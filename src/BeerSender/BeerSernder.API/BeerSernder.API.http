@@ -1,0 +1,6 @@
+@BeerSernder.API_HostAddress = http://localhost:5019
+
+GET {{BeerSernder.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
